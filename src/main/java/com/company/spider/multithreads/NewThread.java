@@ -4,9 +4,12 @@ package com.company.spider.multithreads;
 // 自定义的线程类 NewThread
 // 运行的代码逻辑和main() (主线程)不同
 public class NewThread extends Thread {
-    NewThread() {
+    protected String name1;
+
+    NewThread(String name) {
         // create a new,second thread
-        super("Demo Thread");
+        super(name);
+        name1 = name;
         System.out.println("Child thread: " + this);
         // 显式地开始执行这个线程！ --> 做一些基本的初始化操作 --> run()
         start(); // Start the thread
@@ -17,7 +20,7 @@ public class NewThread extends Thread {
     public void run() {
         try {
             for (int i = 5; i > 0; i--) {
-                System.out.println("Child Thread: " + i);
+                System.out.println("Child Thread: " + this.name1 + " " + i);
                 Thread.sleep(500);
             }
         } catch (InterruptedException e) {
@@ -29,7 +32,8 @@ public class NewThread extends Thread {
     // 主线程逻辑
     public static void main(String[] args) {
         // 创建新的子线程！
-        new NewThread(); // create a new thread
+        NewThread t1 = new NewThread("Child1"); // create a new thread
+        NewThread t2 = new NewThread("Child2"); // create a new thread
         // 调用完构造方法，start()之后，子线程开始执行，主线程返回到main()方法，继续执行下面的代码
         try {
             for (int i = 5; i > 0; i--) {
