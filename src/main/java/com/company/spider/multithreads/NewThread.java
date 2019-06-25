@@ -4,7 +4,7 @@ package com.company.spider.multithreads;
 // 自定义的线程类 NewThread
 // 运行的代码逻辑和main() (主线程)不同
 public class NewThread extends Thread {
-    protected String name1;
+    private String name1;
 
     NewThread(String name) {
         // create a new,second thread
