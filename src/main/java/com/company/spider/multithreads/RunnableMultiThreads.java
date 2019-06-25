@@ -6,18 +6,19 @@ public class RunnableMultiThreads {
         // 定义一个私有地Thread对象
         private Thread t;
 
-        NewThread(String threadname){
+        NewThread(String threadname) {
             name = threadname;
             // 创建一个Thread对象，将this传递给这个Thread，本质就是为了给它 run()
-            t = new Thread(this,name);
+            System.out.println("this" + this);
+            t = new Thread(this, name);
             System.out.println("New Thread: " + t);
             t.start(); // Start the thread
         }
 
         // This is the entry point for thread.
-        public void run(){
-            for(int i=5;i>0;i--){
-                System.out.println(name+ ": " + i);
+        public void run() {
+            for (int i = 5; i > 0; i--) {
+                System.out.println(name + ": " + i);
 
             }
             System.out.println(name + "exiting.");
