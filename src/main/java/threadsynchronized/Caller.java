@@ -13,6 +13,7 @@ public class Caller implements Runnable {
     }
 
     public void run() {
+        // 这里传入的对象，是被共享的
         synchronized (target){
             target.call(msg);
         }
