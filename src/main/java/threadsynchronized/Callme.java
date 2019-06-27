@@ -1,7 +1,7 @@
 package threadsynchronized;
 
 public class Callme {
-    synchronized void call(String msg) {
+    void call(String msg) {
         System.out.println("[" + msg);
         try {
             Thread.sleep(1000);

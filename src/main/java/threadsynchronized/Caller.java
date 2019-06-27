@@ -13,6 +13,8 @@ public class Caller implements Runnable {
     }
 
     public void run() {
-        target.call(msg);
+        synchronized (target){
+            target.call(msg);
+        }
     }
 }
