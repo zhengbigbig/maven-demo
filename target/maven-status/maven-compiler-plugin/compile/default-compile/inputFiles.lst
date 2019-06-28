@@ -1,5 +1,7 @@
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/view/ListViewer.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/activiy/SpiderThread.java
+/Users/zhengzhiheng/Desktop/mavendemo/src/main/java/threadsynchronized/Threadcommunication.java
+/Users/zhengzhiheng/Desktop/mavendemo/src/main/java/threadsynchronized/ThreadCaller.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/TextNewsReader.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/NewsReader.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/JsonNewsReader.java
@@ -8,12 +10,15 @@
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/UrlNews.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/NewsWithRelated.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/News.java
+/Users/zhengzhiheng/Desktop/mavendemo/src/main/java/threadsynchronized/Callme.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/Main.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/UrlNewsReader.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/threaddemo2/ThreadWrite.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/model/Viewable.java
+/Users/zhengzhiheng/Desktop/mavendemo/src/main/java/threadsynchronized/Caller.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/MultiThreadMain.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/multithreads/NewThread.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/threaddemo/MultiThreads.java
+/Users/zhengzhiheng/Desktop/mavendemo/src/main/java/threadsynchronized/Sync.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/multithreads/RunnableMultiThreads.java
 /Users/zhengzhiheng/Desktop/mavendemo/src/main/java/com/company/spider/multithreads/MainThread.java

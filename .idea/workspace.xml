@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d604ffd-54ab-48b8-933b-3be412f7b4eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/MultiThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/MultiThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/activiy/SpiderThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/activiy/SpiderThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/JsonNewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/JsonNewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/News.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/News.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsWithRelated.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/NewsWithRelated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/SearchSate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/SearchSate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/TextNewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/TextNewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/UrlNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/UrlNews.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/UrlNewsReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/UrlNewsReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/model/Viewable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/model/Viewable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/MainThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/NewThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/NewThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/RunnableMultiThreads$NewThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/RunnableMultiThreads$NewThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/RunnableMultiThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/multithreads/RunnableMultiThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/threaddemo/MultiThreads.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/threaddemo/MultiThreads.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/threaddemo2/ThreadWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/threaddemo2/ThreadWrite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/company/spider/view/ListViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/company/spider/view/ListViewer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,53 +39,114 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/MainThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/NewThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo/MultiThreads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/RunnableMultiThreads.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo2/ThreadWrite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Caller.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="275">
+                  <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Sync.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="504">
+                  <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Callme.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="84">
+                  <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCaller.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="22">
+                  <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#273#274#0" expanded="true" />
+                    <element signature="e#297#298#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="155">
+                  <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/MultiThreadMain.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="118">
+                  <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCaller.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="336">
+                  <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+                  <folding>
+                    <element signature="e#334#335#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCallme.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="84">
+                  <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+                  <folding>
+                    <element signature="e#339#340#0" expanded="true" />
+                    <element signature="e#363#364#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Threadcommunication.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="352">
+                  <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -79,6 +160,7 @@
       <find>com.company.spider.Main</find>
       <find>Thread</find>
       <find>run</find>
+      <find>valueSet</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,9 +179,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/model/UrlNewsReader.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/model/Viewable.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/view/ListViewer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/spider/MultiThreadMain.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/model/SearchSate.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/spider/activiy/SpiderThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/MainThread.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/NewThread.java" />
@@ -107,6 +187,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/RunnableMultiThreads.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo/MultiThreads.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo2/ThreadWrite.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/Callme.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/Caller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/spider/activiy/SpiderThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/spider/MultiThreadMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/Threadcommunication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCaller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCallme.java" />
+        <option value="$PROJECT_DIR$/src/main/java/threadsynchronized/Sync.java" />
       </list>
     </option>
   </component>
@@ -132,8 +221,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="154" />
-    <option name="y" value="33" />
+    <option name="x" value="202" />
+    <option name="y" value="91" />
     <option name="width" value="1478" />
     <option name="height" value="947" />
   </component>
@@ -143,7 +232,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -184,22 +272,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="multithreads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mavendemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mavendemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="threaddemo2" type="462c0819:PsiDirectoryNode" />
+              <item name="threadsynchronized" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,20 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadWrite">
-    <configuration name="MainThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.spider.multithreads.MainThread" />
-      <module name="mavendemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.spider.multithreads.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Sync">
     <configuration name="MultiThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.spider.threaddemo.MultiThreads" />
       <module name="mavendemo" />
@@ -263,6 +329,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.spider.multithreads.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="threadsynchronized.Sync" />
+      <module name="mavendemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="threadsynchronized.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -338,21 +417,21 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Application.MainThread" />
       <item itemvalue="Application.NewThread" />
       <item itemvalue="Application.RunnableMultiThreads" />
       <item itemvalue="Application.MultiThreads" />
       <item itemvalue="Application.ThreadWrite" />
       <item itemvalue="Maven.Main" />
       <item itemvalue="Maven.NewThread" />
+      <item itemvalue="Application.Sync" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sync" />
         <item itemvalue="Application.ThreadWrite" />
         <item itemvalue="Application.MultiThreads" />
         <item itemvalue="Application.RunnableMultiThreads" />
         <item itemvalue="Application.NewThread" />
-        <item itemvalue="Application.MainThread" />
       </list>
     </recent_temporary>
   </component>
@@ -423,13 +502,63 @@
       <option name="project" value="LOCAL" />
       <updated>1561458649164</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="create synchronized">
+      <created>1561603331598</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561603331598</updated>
+    </task>
+    <task id="LOCAL-00010" summary="synchronized void call 线程同步">
+      <created>1561616207903</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561616207903</updated>
+    </task>
+    <task id="LOCAL-00011" summary="        synchronized (target){&#10;            target.call(msg);&#10;        } &#10;        线程同步2">
+      <created>1561618008804</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561618008804</updated>
+    </task>
+    <task id="LOCAL-00012" summary="多线程通信  &#10;wait( ) 告知被调用的线程放弃管程进入睡眠直到其他线程进入相同管程并且调用notify( )。&#10;notify( ) 恢复相同对象中第一个调用 wait( ) 的线程。&#10;notifyAll( ) 恢复相同对象中所有调用 wait( ) 的线程。具有最高优先级的线程最先运行。">
+      <created>1561620516590</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561620516590</updated>
+    </task>
+    <task id="LOCAL-00013" summary="开始使用多线程优化">
+      <created>1561622658511</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561622658511</updated>
+    </task>
+    <task id="LOCAL-00014" summary="多线程通信实例 生产者与消费者">
+      <created>1561630137515</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561630137515</updated>
+    </task>
+    <task id="LOCAL-00015" summary="多线程爬虫">
+      <created>1561630157014</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561630157014</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="154" y="33" width="1478" height="947" extended-state="0" />
+    <frame x="202" y="91" width="1478" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18245125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18662953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -443,7 +572,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.40286055" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38140643" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32896304" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32896304" />
@@ -451,7 +580,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.3293872" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3293872" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -506,20 +635,24 @@
     <MESSAGE value="让class 具有run()方法" />
     <MESSAGE value="创建3个线程, 然后完成工作:&#10;&#10;主线程一直循环输出从1 开始的数字, 一直到100;&#10;创建的2个子线程: 子线程A输出大写字母从A到Z, 子线程B输出小写字母从a到z" />
     <MESSAGE value="程序运行之后, 会接收用户输入的字符串, 用户输入回车之后, 把这行字符串写入到一个新的文件中, 命名为数字序号 (1.txt, 2.txt, 3.txt)... (回顾一下之前IO的课程中, 对文件写入的操作)&#10;&#10;用户输入回车之后, 重新等待用户输入字符串, 并且循环执行 1 中的逻辑" />
-    <option name="LAST_COMMIT_MESSAGE" value="程序运行之后, 会接收用户输入的字符串, 用户输入回车之后, 把这行字符串写入到一个新的文件中, 命名为数字序号 (1.txt, 2.txt, 3.txt)... (回顾一下之前IO的课程中, 对文件写入的操作)&#10;&#10;用户输入回车之后, 重新等待用户输入字符串, 并且循环执行 1 中的逻辑" />
+    <MESSAGE value="create synchronized" />
+    <MESSAGE value="synchronized void call 线程同步" />
+    <MESSAGE value="        synchronized (target){&#10;            target.call(msg);&#10;        } &#10;        线程同步2" />
+    <MESSAGE value="多线程通信  &#10;wait( ) 告知被调用的线程放弃管程进入睡眠直到其他线程进入相同管程并且调用notify( )。&#10;notify( ) 恢复相同对象中第一个调用 wait( ) 的线程。&#10;notifyAll( ) 恢复相同对象中所有调用 wait( ) 的线程。具有最高优先级的线程最先运行。" />
+    <MESSAGE value="开始使用多线程优化" />
+    <MESSAGE value="多线程通信实例 生产者与消费者" />
+    <MESSAGE value="多线程爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程爬虫" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="152" column="21" lean-forward="true" selection-start-line="152" selection-start-column="21" selection-end-line="152" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -560,26 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/activiy/SpiderThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-337">
-          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/MultiThreadMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/model/UrlNews.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -587,31 +700,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/model/SearchSate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#182#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/model/Viewable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#593#610#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,27 +763,6 @@
     <entry file="file://$PROJECT_DIR$/3.txt" />
     <entry file="file://$PROJECT_DIR$/1.txt" />
     <entry file="file://$PROJECT_DIR$/2.txt" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo2/ThreadWrite.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/MainThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/NewThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo/MultiThreads.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -699,10 +770,127 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/threaddemo2/ThreadWrite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/RunnableMultiThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        <state relative-caret-position="51">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/NewThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/multithreads/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/activiy/SpiderThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Callme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/model/SearchSate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#182#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCallme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding>
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Caller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Sync.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/spider/MultiThreadMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="31" column="40" lean-forward="true" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/ThreadCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding>
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/threadsynchronized/Threadcommunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
