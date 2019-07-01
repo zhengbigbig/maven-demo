@@ -1,6 +1,6 @@
 package threadsynchronized;
 
-public class Threadcommunication {
+public class ThreadCommunication {
     // 仓库
     int n;
     boolean valueSet = false;

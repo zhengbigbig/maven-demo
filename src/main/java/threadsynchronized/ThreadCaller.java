@@ -1,10 +1,10 @@
 package threadsynchronized;
 
 public class ThreadCaller implements Runnable {
-    Threadcommunication tc;
+    ThreadCommunication tc;
     Thread t;
 
-    public ThreadCaller(Threadcommunication target) {
+    public ThreadCaller(ThreadCommunication target) {
         tc = target;
         t = new Thread(this);
         t.start();

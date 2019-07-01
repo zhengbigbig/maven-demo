@@ -1,11 +1,11 @@
 package threadsynchronized;
 
-public class ThreadCallme implements Runnable {
-    Threadcommunication tc;
+public class ThreadCallMe implements Runnable {
+    ThreadCommunication tc;
     int num;
     Thread t;
 
-    public ThreadCallme(Threadcommunication target,int n) {
+    public ThreadCallMe(ThreadCommunication target, int n) {
         tc = target;
         num = n;
         t = new Thread(this);
